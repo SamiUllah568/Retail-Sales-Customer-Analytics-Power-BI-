@@ -119,7 +119,7 @@ Alternatively, view the static screenshots in the [`/screenshots`](./screenshots
 
 ## 👤 Author
 
-**[Your Name]**
+**[SamiUllah568]**
 Data Analyst | Power BI Developer
 📧 [sk2579784@gmail.com] | 🔗 [LinkedIn](www.linkedin.com/in/sami-ullah-b10b93300) | 
 
