@@ -114,11 +114,6 @@ retail-powerbi-dashboard/
 
 Alternatively, view the static screenshots in the [`/screenshots`](./screenshots) folder or check the published report link below.
 
----
-
-## 🔗 Live Report
-
-🔗 **Published Power BI Report:** *[add your Publish-to-Web link here]*
 
 ---
 
@@ -126,7 +121,7 @@ Alternatively, view the static screenshots in the [`/screenshots`](./screenshots
 
 **[Your Name]**
 Data Analyst | Power BI Developer
-📧 [your-email@example.com] | 🔗 [LinkedIn](https://linkedin.com/in/your-profile) | 🌐 [Portfolio](https://your-portfolio.com)
+📧 [sk2579784@gmail.com] | 🔗 [LinkedIn](www.linkedin.com/in/sami-ullah-b10b93300) | 
 
 ---
 
